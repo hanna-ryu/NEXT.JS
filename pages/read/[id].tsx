@@ -1,5 +1,5 @@
-import Head from 'next/head';
 import Layout from '@/components/Layout';
+import Head from 'next/head';
 import Link from 'next/link';
 
 export default function Home() {
@@ -10,8 +10,8 @@ export default function Home() {
           <Link href="/">WEB</Link>
         </h1>
       </header>
-      <h2>Welcome</h2>
-      Hello, World!!
+      <h2>READ</h2>
+      Hello READ!
     </>
   );
 }
